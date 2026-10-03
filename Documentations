@@ -1,8 +1,9 @@
- Kali-NetHunter-Chroot-Technical-Incident-Report
-Technical Incident ReportResolving systemd / udev Package Configuration Failures on Kali NetHunter (Android Chroot) 
-Kali NetHunter Chroot — systemd Troubleshooting Report                    
+Kali NetHunter Chroot — systemd Troubleshooting Report
+
 Author
+
 Name: [Mohamed A.Saleh]
+
 Overview
 
 This report documents a real-world systemd/udev packaging issue encountered inside a Kali NetHunter chroot on Android.
